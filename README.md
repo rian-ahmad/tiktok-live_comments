@@ -120,3 +120,6 @@ if __name__ == '__main__':
 - Menjalankan fungsi check_loop untuk memulai pengecekan status live.
 - Jika terjadi kesalahan selama eksekusi, komentar yang sudah diterima akan disimpan ke CSV.
 
+## Lisensi
+
+Proyek ini menggunakan lisensi MIT
