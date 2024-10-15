@@ -122,4 +122,4 @@ if __name__ == '__main__':
 
 ## Lisensi
 
-Proyek ini menggunakan lisensi MIT
+Proyek ini menggunakan lisensi MIT. Lihat di [LICENSE](https://github.com/rian-ahmad/tiktok-live_comments/blob/main/LICENSE) untuk tahu lebih lanjut.
