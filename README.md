@@ -41,12 +41,12 @@ komentar = {
     'komentar': []
 }
 
-target = '3mongkis'
+target = 'target_user'
 
 ```
 - `df_komentar`: Membaca data komentar yang sudah ada dari file komentar.csv menggunakan pandas.
 - `komentar`: Dictionary yang menyimpan data baru berupa waktu, nama pengguna, dan isi komentar yang diterima selama live.
-- `target`: Username TikTok yang akan dimonitor untuk live stream, dalam contoh ini adalah `'3mongkis'`.
+- `target`: Username TikTok yang akan dimonitor untuk live stream, ganti `target_user` dengan target yang anda ingin monitor.
 
 ## 4. Fungsi untuk Menyimpan Komentar ke CSV
 
